@@ -1,0 +1,38 @@
+# Hi, I'm Ryan Chen 👋
+
+Software Engineer with a background in **Electrical Engineering & Computer Science**.  
+Passionate about systems programming, network algorithms, and building practical web tools.
+
+---
+
+## 🛠️ Tech Stack
+
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+
+---
+
+## 🚀 Projects
+
+| Project | Description | Tech |
+|---|---|---|
+| [ip-lookup-C](https://github.com/RyanChen0311/ip-lookup-C) | IPv4 routing engine using Binary Trie for Longest Prefix Match — validated against real BGP data from RIPE NCC | C |
+| [QAbot](https://github.com/RyanChen0311/QAbot) | Unsupervised Traditional Chinese QA system using Wikipedia-scale inverted index + jieba POS tagging | Python |
+| [Elevator-Simulator](https://github.com/RyanChen0311/Elevator-Simulator) | Multi-elevator dispatch system implementing the nearest-car algorithm | C++ |
+| [pedometer](https://github.com/RyanChen0311/pedometer) | Mobile PWA step counter using DeviceMotion API with peak detection algorithm | JavaScript |
+| [skill-of-hunter](https://github.com/RyanChen0311/skill-of-hunter) | Interactive Nen ability radar chart with Canvas API and polar coordinate drag | JavaScript |
+| [txt_scroll_div](https://github.com/RyanChen0311/txt_scroll_div) | TXT reader with smart paragraph/sentence-aware pagination | JavaScript |
+| [learn_english_for_resite](https://github.com/RyanChen0311/learn_english_for_resite) | Vocabulary flashcard app with Web Speech API pronunciation and localStorage | JavaScript |
+| [languages-translator_5ls](https://github.com/RyanChen0311/languages-translator_5ls) | 5-language translator using Google Translate API with keyboard navigation | JavaScript |
+| [discount_per](https://github.com/RyanChen0311/discount_per) | Bulk discount calculator with buyer and seller profit margin views | JavaScript |
+| [money-eye-bubble-tea](https://github.com/RyanChen0311/money-eye-bubble-tea) | Live USD→TWD exchange rate calculator for bubble tea purchasing | JavaScript |
+
+---
+
+## 📫 Contact
+
+[![Email](https://img.shields.io/badge/Email-pig08082001@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:pig08082001@gmail.com)
