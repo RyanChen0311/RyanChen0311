@@ -11,8 +11,10 @@ Passionate about systems programming, network algorithms, and building practical
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
 
 ---
 
@@ -23,6 +25,9 @@ Passionate about systems programming, network algorithms, and building practical
 | [ip-lookup-C](https://github.com/RyanChen0311/ip-lookup-C) | IPv4 routing engine using Binary Trie for Longest Prefix Match — validated against real BGP data from RIPE NCC | C |
 | [QAbot](https://github.com/RyanChen0311/QAbot) | Unsupervised Traditional Chinese QA system using Wikipedia-scale inverted index + jieba POS tagging | Python |
 | [Elevator-Simulator](https://github.com/RyanChen0311/Elevator-Simulator) | Multi-elevator dispatch system implementing the nearest-car algorithm | C++ |
+| [sleep-analysis-chart](https://github.com/RyanChen0311/sleep-analysis-chart) | Interactive sleep pattern visualizer with SVG timeline charts and deviation analysis between regular and actual sleep schedules | React, Vite, Tailwind CSS |
+| [parkour](https://github.com/RyanChen0311/parkour) | Browser-based parkour game with phantom ghost trail effects — four character classes (Archer, Mage, Swordsman, Assassin), touch/keyboard controls, and auto mode | HTML5, CSS3, JavaScript |
+| [vision_status_processor](https://github.com/RyanChen0311/vision_status_processor) | Real-time vision condition simulator covering myopia, hyperopia, astigmatism, and presbyopia with adjustable severity and Taiwan optical prescription standards | HTML5, CSS3, JavaScript |
 | [pedometer](https://github.com/RyanChen0311/pedometer) | Mobile PWA step counter using DeviceMotion API with peak detection algorithm | JavaScript |
 | [skill-of-hunter](https://github.com/RyanChen0311/skill-of-hunter) | Interactive Nen ability radar chart with Canvas API and polar coordinate drag | JavaScript |
 | [txt_scroll_div](https://github.com/RyanChen0311/txt_scroll_div) | TXT reader with smart paragraph/sentence-aware pagination | JavaScript |
