@@ -56,6 +56,16 @@ AI was used as a development accelerator throughout — for code generation, ite
 
 ---
 
+## ⭐ Featured Project — ip-lookup-C
+
+**High-performance IPv4 routing engine** implementing Longest Prefix Match via a 32-level Binary Trie, written in C and validated against real-world BGP data.
+
+- **Why Binary Trie over Hash Table**: LPM requires finding the *longest* matching prefix — Hash Table can only do exact match, so it would need up to 33 separate lookups (one per prefix length /0–/32) per query. Binary Trie resolves this in a single O(32) traversal, naturally recording the deepest match along the way
+- **Why C**: Manual `malloc`/`free` throughout — no RAII, no abstractions — to demonstrate low-level memory management and stay conceptually close to how real router FIB implementations work
+- **Validation**: Tested against real BGP routing tables from RIPE NCC Route Collectors (Nov 2021), covering 800k–900k prefixes across 5 regions (rrc00/01/03/04/05) — self-generated test data cannot replicate real-world prefix distribution and edge cases
+
+---
+
 ## 📫 Contact
 
 [![Email](https://img.shields.io/badge/Email-pig08082001@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:pig08082001@gmail.com)
