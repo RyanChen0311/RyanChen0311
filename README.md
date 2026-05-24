@@ -41,6 +41,21 @@ Passionate about systems programming, network algorithms, and building practical
 
 ---
 
+## ⭐ Featured Project — SocratesApp
+
+**Socratic AI learning system** built with C++ (Drogon) + Claude API + PostgreSQL.
+
+I owned the full product design — learning flow, evaluation logic, and architectural decisions:
+
+- **Skill graph**: Dynamic DAG of 9–12 nodes across 3 branches; each node requires 5 questions to ensure token-cost-predictable evaluation
+- **Scoring**: Claude evaluates every response on a 0–20 continuous scale (not binary pass/fail), enabling partial-credit diagnosis; 60/100 passing threshold mirrors real academic credit standards
+- **Teacher mode**: Triggered by **3 consecutive errors** (not cumulative) — consecutive failures isolate a genuine conceptual gap within the same causal chain, whereas cumulative counting conflates unrelated mistakes
+- **Tech choice**: C++ chosen deliberately to build and demonstrate production-level systems programming skill alongside AI integration
+
+AI was used as a development accelerator throughout — for code generation, iteration, and refinement — while all design decisions and their rationale remained mine.
+
+---
+
 ## 📫 Contact
 
 [![Email](https://img.shields.io/badge/Email-pig08082001@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:pig08082001@gmail.com)
