@@ -15,6 +15,7 @@ Passionate about systems programming, network algorithms, and building practical
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 
 ---
 
@@ -22,6 +23,7 @@ Passionate about systems programming, network algorithms, and building practical
 
 | Project | Description | Tech |
 |---|---|---|
+| [SocratesApp](https://github.com/RyanChen0311/SocratesApp) | AI-powered Socratic learning system — generates a DAG skill tree of 12 knowledge nodes, scores responses via Claude API (0–20 pts), diagnoses misconceptions, and switches to teacher mode after 3 consecutive errors | C++, Drogon, PostgreSQL, D3.js |
 | [ip-lookup-C](https://github.com/RyanChen0311/ip-lookup-C) | IPv4 routing engine using Binary Trie for Longest Prefix Match — validated against real BGP data from RIPE NCC | C |
 | [QAbot](https://github.com/RyanChen0311/QAbot) | Unsupervised Traditional Chinese QA system using Wikipedia-scale inverted index + jieba POS tagging | Python |
 | [Elevator-Simulator](https://github.com/RyanChen0311/Elevator-Simulator) | Multi-elevator dispatch system implementing the nearest-car algorithm | C++ |
