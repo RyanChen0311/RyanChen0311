@@ -24,7 +24,7 @@ Passionate about systems programming, network algorithms, and building practical
 | Project | Description | Tech |
 |---|---|---|
 | [SocratesApp](https://github.com/RyanChen0311/SocratesApp) | AI-powered Socratic learning system — generates a DAG skill tree of 12 knowledge nodes, scores responses via Claude API (0–20 pts), diagnoses misconceptions, and switches to teacher mode after 3 consecutive errors | C++, Drogon, PostgreSQL, D3.js |
-| [ip-lookup-C](https://github.com/RyanChen0311/ip-lookup-C) | IPv4 routing engine using Binary Trie for Longest Prefix Match — validated against real BGP data from RIPE NCC | C |
+| [ip-lpm](https://github.com/RyanChen0311/ip-lpm) | IPv4 routing engine using Binary Trie for Longest Prefix Match — validated against real BGP data from RIPE NCC | C |
 | [QAbot](https://github.com/RyanChen0311/QAbot) | Unsupervised Traditional Chinese QA system using Wikipedia-scale inverted index + jieba POS tagging | Python |
 | [Elevator-Simulator](https://github.com/RyanChen0311/Elevator-Simulator) | Multi-elevator dispatch system implementing the nearest-car algorithm | C++ |
 | [life-map](https://github.com/RyanChen0311/life-map) | Interactive graph visualizing 10 core life dimensions (career, health, habits, finance, etc.) with influence pathways, Canvas-rendered connections, and animated node glow effects | HTML5, CSS3, JavaScript |
@@ -56,7 +56,7 @@ AI was used as a development accelerator throughout — for code generation, ite
 
 ---
 
-## ⭐ Featured Project — ip-lookup-C
+## ⭐ Featured Project — ip-lpm
 
 **High-performance IPv4 routing engine** implementing Longest Prefix Match via a 32-level Binary Trie, written in C and validated against real-world BGP data.
 
