@@ -25,7 +25,7 @@ Passionate about systems programming, network algorithms, and building practical
 |---|---|---|
 | [SocratesApp](https://github.com/RyanChen0311/SocratesApp) | AI-powered Socratic learning system — generates a DAG skill tree of 12 knowledge nodes, scores responses via Claude API (0–20 pts), diagnoses misconceptions, and switches to teacher mode after 3 consecutive errors | C++, Drogon, PostgreSQL, D3.js |
 | [ip-lpm](https://github.com/RyanChen0311/ip-lpm) | IPv4 routing engine using Binary Trie for Longest Prefix Match — validated against real BGP data from RIPE NCC | C |
-| [QAbot](https://github.com/RyanChen0311/QAbot) | Unsupervised Traditional Chinese QA system using Wikipedia-scale inverted index + jieba POS tagging | Python |
+| [zhwiki-ir-mcqa](https://github.com/RyanChen0311/zhwiki-ir-mcqa) | Unsupervised Traditional Chinese multiple-choice QA system — builds inverted index over 1.2M Wikipedia articles, scores answer options via set intersection counting with jieba noun-only POS filtering, no ML or GPU required | Python |
 | [Elevator-Simulator](https://github.com/RyanChen0311/Elevator-Simulator) | Multi-elevator dispatch system implementing the nearest-car algorithm | C++ |
 | [life-map](https://github.com/RyanChen0311/life-map) | Interactive graph visualizing 10 core life dimensions (career, health, habits, finance, etc.) with influence pathways, Canvas-rendered connections, and animated node glow effects | HTML5, CSS3, JavaScript |
 | [sleep-analysis-chart](https://github.com/RyanChen0311/sleep-analysis-chart) | Interactive sleep pattern visualizer with SVG timeline charts and deviation analysis between regular and actual sleep schedules | React, Vite, Tailwind CSS |
