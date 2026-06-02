@@ -14,6 +14,7 @@ Passionate about systems programming, network algorithms, and building practical
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 
@@ -27,6 +28,7 @@ Passionate about systems programming, network algorithms, and building practical
 | [ip-lpm](https://github.com/RyanChen0311/ip-lpm) | IPv4 routing engine using Binary Trie for Longest Prefix Match — validated against real BGP data from RIPE NCC | C |
 | [zhwiki-ir-mcqa](https://github.com/RyanChen0311/zhwiki-ir-mcqa) | Unsupervised Traditional Chinese multiple-choice QA system — builds inverted index over 1.2M Wikipedia articles, scores answer options via set intersection counting with jieba noun-only POS filtering, no ML or GPU required | Python |
 | [path_elevator](https://github.com/RyanChen0311/path_elevator) | Filesystem path-traversal tool — displays every ancestor directory at once, like riding an elevator floor by floor | C++ |
+| [Calorie_Survival](https://github.com/RyanChen0311/Calorie_Survival) | 7-day survival strategy game balancing calories, finances, exercise, and body weight across four daily phases — PWA with offline support, Zustand state persistence, and JSON-driven game balance config | React 18, TypeScript, Vite, Zustand, Tailwind CSS |
 | [life-map](https://github.com/RyanChen0311/life-map) | Interactive graph visualizing 10 core life dimensions (career, health, habits, finance, etc.) with influence pathways, Canvas-rendered connections, and animated node glow effects | HTML5, CSS3, JavaScript |
 | [sleep_analysis_chart](https://github.com/RyanChen0311/sleep_analysis_chart) | Interactive sleep pattern visualizer with SVG timeline charts and deviation analysis between regular and actual sleep schedules | React, Vite, Tailwind CSS |
 | [parkour](https://github.com/RyanChen0311/parkour) | Browser-based parkour game with phantom ghost trail effects — four character classes, rainbow HSL color picker, speed control, and touch/keyboard controls; 23 Vitest unit tests with GitHub Actions CI | HTML5, CSS3, JavaScript |
