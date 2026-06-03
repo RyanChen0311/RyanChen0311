@@ -43,9 +43,9 @@ Passionate about systems programming, network algorithms, and building practical
 
 ---
 
-## ⭐ Featured Project — SocratesApp
+## ⭐ Featured Projects
 
-**Socratic AI learning system** built with C++ (Drogon) + Claude API + PostgreSQL.
+**SocratesApp** — Socratic AI learning system built with C++ (Drogon) + Claude API + PostgreSQL.
 
 I owned the full product design — learning flow, evaluation logic, and architectural decisions:
 
@@ -56,21 +56,13 @@ I owned the full product design — learning flow, evaluation logic, and archite
 
 AI was used as a development accelerator throughout — for code generation, iteration, and refinement — while all design decisions and their rationale remained mine.
 
----
-
-## ⭐ Featured Project — ip-lpm
-
-**High-performance IPv4 routing engine** implementing Longest Prefix Match via a 32-level Binary Trie, written in C and validated against real-world BGP data.
+**ip-lpm** — High-performance IPv4 routing engine implementing Longest Prefix Match via a 32-level Binary Trie, written in C and validated against real-world BGP data.
 
 - **Why Binary Trie over Hash Table**: LPM requires finding the *longest* matching prefix — Hash Table can only do exact match, so it would need up to 33 separate lookups (one per prefix length /0–/32) per query. Binary Trie resolves this in a single O(32) traversal, naturally recording the deepest match along the way
 - **Why C**: Manual `malloc`/`free` throughout — no RAII, no abstractions — to demonstrate low-level memory management and stay conceptually close to how real router FIB implementations work
 - **Validation**: Tested against real BGP routing tables from RIPE NCC Route Collectors (Nov 2021), covering 800k–900k prefixes across 5 regions (rrc00/01/03/04/05) — self-generated test data cannot replicate real-world prefix distribution and edge cases
 
----
-
-## ⭐ Featured Project — zhwiki-ir-mcqa
-
-**Unsupervised Traditional Chinese multiple-choice QA system** built with Python, no ML or GPU required.
+**zhwiki-ir-mcqa** — Unsupervised Traditional Chinese multiple-choice QA system built with Python, no ML or GPU required.
 
 - **Scale**: Builds an inverted index over 1.2M Wikipedia articles — no preprocessing pipeline, runs entirely on local CPU
 - **Answer scoring**: Set intersection counting between question context and each answer option; jieba POS filtering keeps nouns only, removing stop-word noise without a curated stoplist
