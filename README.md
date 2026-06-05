@@ -35,7 +35,7 @@ Passionate about systems programming, network algorithms, and building practical
 | [vision-simulator](https://github.com/RyanChen0311/vision-simulator) | Real-time vision condition simulator covering myopia, hyperopia, astigmatism, and presbyopia with adjustable severity and Taiwan optical prescription standards | HTML5, CSS3, JavaScript | 🖥️ | 📱 |
 | [pedometer](https://github.com/RyanChen0311/pedometer) | Mobile PWA step counter using DeviceMotion API with peak detection algorithm | JavaScript | — | 📱 |
 | [nutrition-calculator](https://github.com/RyanChen0311/nutrition-calculator) | Calorie and macronutrient calculator using ACSM MET standards and a 24-hour energy metabolism model — dynamically adjusts protein intake by exercise duration and covers 11 vitamins and 10 minerals per DRI standards | JavaScript | 🖥️ | 📱 |
-| [txt_scroll_div](https://github.com/RyanChen0311/txt_scroll_div) | TXT reader with smart paragraph/sentence-aware pagination | JavaScript | 🖥️ | 📱 |
+| [txt_scroll_div](https://github.com/RyanChen0311/txt_scroll_div) | TXT reader with smart paragraph/sentence-aware pagination | JavaScript | 🖥️ | — |
 | [learn_english_for_resite](https://github.com/RyanChen0311/learn_english_for_resite) | Vocabulary flashcard app with Web Speech API pronunciation and localStorage | JavaScript | 🖥️ | 📱 |
 | [languages-translator_5ls](https://github.com/RyanChen0311/languages-translator_5ls) | 5-language translator using Google Translate API with keyboard navigation | JavaScript | 🖥️ | 📱 |
 | [discount_per](https://github.com/RyanChen0311/discount_per) | Bulk discount calculator with buyer and seller profit margin views | JavaScript | 🖥️ | 📱 |
