@@ -39,7 +39,7 @@ Passionate about systems programming, network algorithms, and building practical
 | [learn_english_for_resite](https://github.com/RyanChen0311/learn_english_for_resite) | Vocabulary flashcard app with Web Speech API pronunciation and localStorage | JavaScript | 🖥️ | 📱 |
 | [languages-translator_5ls](https://github.com/RyanChen0311/languages-translator_5ls) | 5-language translator using Google Translate API with keyboard navigation | JavaScript | 🖥️ | 📱 |
 | [discount_per](https://github.com/RyanChen0311/discount_per) | Bulk discount calculator with buyer and seller profit margin views | JavaScript | 🖥️ | 📱 |
-| [nutrition_of_hunter](https://github.com/RyanChen0311/nutrition_of_hunter) | Daily nutrition tracker with hexagon radar chart (Canvas 2D), two-stage greedy food recommendation algorithm, Mifflin-St Jeor TDEE calculation, and a 33-item food database with localStorage persistence | JavaScript | 🖥️ | — |
+| [nutrition_of_hunter](https://github.com/RyanChen0311/nutrition_of_hunter) | Daily nutrition tracker with hexagon radar chart (Canvas 2D), two-stage greedy food recommendation algorithm, Mifflin-St Jeor TDEE calculation, and a 33-item food database with localStorage persistence | JavaScript | 🖥️ | 📱 |
 
 ---
 
