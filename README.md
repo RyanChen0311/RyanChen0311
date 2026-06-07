@@ -35,7 +35,7 @@ Passionate about systems programming, network algorithms, and building practical
 | [vision-simulator](https://github.com/RyanChen0311/vision-simulator) | Real-time vision condition simulator covering myopia, hyperopia, astigmatism, and presbyopia with adjustable severity and Taiwan optical prescription standards | HTML5, CSS3, JavaScript | 🖥️ | 📱 |
 | [pedometer](https://github.com/RyanChen0311/pedometer) | Mobile PWA step counter using DeviceMotion API with peak detection algorithm | JavaScript | — | 📱 |
 | [nutrition-calculator](https://github.com/RyanChen0311/nutrition-calculator) | Calorie and macronutrient calculator using ACSM MET standards and a 24-hour energy metabolism model — dynamically adjusts protein intake by exercise duration and covers 11 vitamins and 10 minerals per DRI standards | JavaScript | 🖥️ | 📱 |
-| [txt_scroll_div](https://github.com/RyanChen0311/txt_scroll_div) | TXT reader with smart paragraph/sentence-aware pagination | JavaScript | 🖥️ | — |
+| [PageScroll](https://github.com/RyanChen0311/PageScroll) | TXT reader with smart paragraph/sentence-aware pagination | JavaScript | 🖥️ | — |
 | [spell-english](https://github.com/RyanChen0311/spell-english) | Vocabulary flashcard app with Web Speech API pronunciation and localStorage | JavaScript | 🖥️ | 📱 |
 | [discount_per](https://github.com/RyanChen0311/discount_per) | Bulk discount calculator with buyer and seller profit margin views | JavaScript | 🖥️ | 📱 |
 | [nutrition-hunter](https://github.com/RyanChen0311/nutrition-hunter) | Daily nutrition tracker with hexagon radar chart (Canvas 2D), two-stage greedy food recommendation algorithm, Mifflin-St Jeor TDEE calculation, and a 33-item food database with localStorage persistence | JavaScript | 🖥️ | 📱 |
