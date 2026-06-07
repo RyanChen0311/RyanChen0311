@@ -37,7 +37,7 @@ Passionate about systems programming, network algorithms, and building practical
 | [nutrition-calculator](https://github.com/RyanChen0311/nutrition-calculator) | Calorie and macronutrient calculator using ACSM MET standards and a 24-hour energy metabolism model — dynamically adjusts protein intake by exercise duration and covers 11 vitamins and 10 minerals per DRI standards | JavaScript | 🖥️ | 📱 |
 | [PageScroll](https://github.com/RyanChen0311/PageScroll) | TXT reader with smart paragraph/sentence-aware pagination | JavaScript | 🖥️ | — |
 | [spell-english](https://github.com/RyanChen0311/spell-english) | Vocabulary flashcard app with Web Speech API pronunciation and localStorage | JavaScript | 🖥️ | 📱 |
-| [discount_per](https://github.com/RyanChen0311/discount_per) | Bulk discount calculator with buyer and seller profit margin views | JavaScript | 🖥️ | 📱 |
+| [discount-calculator](https://github.com/RyanChen0311/discount-calculator) | Bulk discount calculator with buyer and seller profit margin views | JavaScript | 🖥️ | 📱 |
 | [nutrition-hunter](https://github.com/RyanChen0311/nutrition-hunter) | Daily nutrition tracker with hexagon radar chart (Canvas 2D), two-stage greedy food recommendation algorithm, Mifflin-St Jeor TDEE calculation, and a 33-item food database with localStorage persistence | JavaScript | 🖥️ | 📱 |
 
 ---
