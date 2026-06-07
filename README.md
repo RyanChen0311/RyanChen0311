@@ -30,7 +30,7 @@ Passionate about systems programming, network algorithms, and building practical
 | [path_elevator](https://github.com/RyanChen0311/path_elevator) | Filesystem path-traversal tool — displays every ancestor directory at once, like riding an elevator floor by floor | C++ | — | — |
 | [calorie_survival](https://github.com/RyanChen0311/calorie_survival) | 7-day survival strategy game balancing calories, finances, exercise, and body weight across four daily phases — PWA with offline support, Zustand state persistence, and JSON-driven game balance config | React 18, TypeScript, Vite, Zustand, Tailwind CSS | 🖥️ | 📱 |
 | [life-map](https://github.com/RyanChen0311/life-map) | Interactive graph visualizing 10 core life dimensions (career, health, habits, finance, etc.) with influence pathways, Canvas-rendered connections, and animated node glow effects | HTML5, CSS3, JavaScript | 🖥️ | — |
-| [sleep-analysis-chart](https://github.com/RyanChen0311/sleep-analysis-chart) | Interactive sleep pattern visualizer with SVG timeline charts and deviation analysis between regular and actual sleep schedules | React, Vite, Tailwind CSS | 🖥️ | — |
+| [sleep-tracker](https://github.com/RyanChen0311/sleep-tracker) | Interactive sleep pattern visualizer with SVG timeline charts and deviation analysis between regular and actual sleep schedules | React, Vite, Tailwind CSS | 🖥️ | — |
 | [parkour](https://github.com/RyanChen0311/parkour) | Browser-based parkour game with phantom ghost trail effects — four character classes, rainbow HSL color picker, speed control, and touch/keyboard controls; 23 Vitest unit tests with GitHub Actions CI | HTML5, CSS3, JavaScript | 🖥️ | 📱 |
 | [vision-simulator](https://github.com/RyanChen0311/vision-simulator) | Real-time vision condition simulator covering myopia, hyperopia, astigmatism, and presbyopia with adjustable severity and Taiwan optical prescription standards | HTML5, CSS3, JavaScript | 🖥️ | 📱 |
 | [pedometer](https://github.com/RyanChen0311/pedometer) | Mobile PWA step counter using DeviceMotion API with peak detection algorithm | JavaScript | — | 📱 |
@@ -38,7 +38,7 @@ Passionate about systems programming, network algorithms, and building practical
 | [txt_scroll_div](https://github.com/RyanChen0311/txt_scroll_div) | TXT reader with smart paragraph/sentence-aware pagination | JavaScript | 🖥️ | — |
 | [spell-english](https://github.com/RyanChen0311/spell-english) | Vocabulary flashcard app with Web Speech API pronunciation and localStorage | JavaScript | 🖥️ | 📱 |
 | [discount_per](https://github.com/RyanChen0311/discount_per) | Bulk discount calculator with buyer and seller profit margin views | JavaScript | 🖥️ | 📱 |
-| [nutrition_of_hunter](https://github.com/RyanChen0311/nutrition_of_hunter) | Daily nutrition tracker with hexagon radar chart (Canvas 2D), two-stage greedy food recommendation algorithm, Mifflin-St Jeor TDEE calculation, and a 33-item food database with localStorage persistence | JavaScript | 🖥️ | 📱 |
+| [nutrition-hunter](https://github.com/RyanChen0311/nutrition-hunter) | Daily nutrition tracker with hexagon radar chart (Canvas 2D), two-stage greedy food recommendation algorithm, Mifflin-St Jeor TDEE calculation, and a 33-item food database with localStorage persistence | JavaScript | 🖥️ | 📱 |
 
 ---
 
